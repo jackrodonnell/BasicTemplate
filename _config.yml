@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Indivisible 123GO
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -57,15 +57,16 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: We are hundreds of local citizens from the Beverly, Morgan Park and Mt.
+  Greenwood neighborhoods resisting the Trump agenda through civic action in Illinois
+  Districts 1,2 and 3.
+email: clareduggan.123go@gmail.com
 baseurl: 
-url: 
-twitter_username: 
-facebook_username: 
+url: indivisible123go.org
+twitter_username: "@ind123GO"
+facebook_username: facebook.com/Indivisible123GO/
 background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+member-count: 300
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
