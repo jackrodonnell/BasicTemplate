@@ -1,5 +1,5 @@
 ---
-title: Senator Tammy Dusckwork, Illinois
+title: Senator Tammy Duckwork, Illinois
 date: 2017-05-29 14:01:00 -04:00
 phone-numbers:
   Washington D.C.: "(202) 224-2854"
