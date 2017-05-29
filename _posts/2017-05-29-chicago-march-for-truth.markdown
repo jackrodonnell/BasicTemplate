@@ -1,6 +1,6 @@
 ---
 title: Chicago March For Truth
-date: 2017-05-28 10:03:00 -04:00
+date: 2017-05-29 10:03:00 -04:00
 ---
 
 Chicago March For Truth
