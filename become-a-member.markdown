@@ -2,8 +2,8 @@
 title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: <p><h4><a href="https://actionnetwork.org/forms/join-indivisible-123go?clear_id=true"
-  Join Here </a></p></h4>
+mailchimp-form-embed: <p><a href="https://actionnetwork.org/forms/join-indivisible-123go?clear_id=true">Join
+  us via the Action Network</a></p>
 layout: becomeAMember
 ---
 
