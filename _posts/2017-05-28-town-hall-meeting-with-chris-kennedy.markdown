@@ -1,6 +1,8 @@
 ---
 title: Town Hall Meeting with Chris Kennedy
-date: 2017-05-28 09:52:00 -04:00
+date: 2017-05-28 08:52:00 -05:00
+event-start-date: 2017-05-25 00:00:00 -05:00
+event-end-date: 2017-06-01 00:00:00 -05:00
 ---
 
 Indivisible 123GO hosts Chris Kennedy, candidate for governor.
