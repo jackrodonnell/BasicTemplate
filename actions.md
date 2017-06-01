@@ -1,7 +1,7 @@
 ---
 title: Take Action
 position: 0
-main-image: "/uploads/march.JPG"
+main-image: "/uploads/Unknown.jpeg"
 layout: actions
 ---
 
