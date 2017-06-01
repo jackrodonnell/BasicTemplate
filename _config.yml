@@ -57,9 +57,8 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are citizens of the South Side of Chicago and the surrounding Suburbs
-  resisting the Trump agenda through civic action in Illinois Congressional Districts
-  1, 2, and 3.  All are welcome.
+subtitle: 'We are citizens of the South Side of Chicago and the surrounding Suburbs
+  resisting the Trump agenda through organized grassroots civic actions. '
 email: indivisible123go@gmail.com
 baseurl: 
 url: indivisible123go.org
