@@ -1,7 +1,6 @@
 ---
 title: Town Hall Meeting with Chris Kennedy
 date: 2017-05-28 08:52:00 -05:00
-published: false
 event-start-date: 2017-05-25 00:00:00 -05:00
 event-end-date: 2017-06-01 00:00:00 -05:00
 ---
