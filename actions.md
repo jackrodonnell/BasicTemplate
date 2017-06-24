@@ -17,9 +17,7 @@ All hands on deck. Bring a friend and a neighbor.
 ** Bring handsfree earphones to make calling easier.
 ** If you don't have a laptop, come anyway and we'll share.
 
-Call or Text Clare on 773-791-1197 or email indivisible123go@gmail.com with questions.  OR [Register Here
-](http://https://www.facebook.com/events/1977750405780227/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null)
-
+Call or Text Clare on 773-791-1197 or email indivisible123go@gmail.com with questions. 
 
 <h4>Medical Emergency: Rally to Save the ACA</h4>
 <h5>Wed, June 28 Noon at the Thompson Center</h5>
