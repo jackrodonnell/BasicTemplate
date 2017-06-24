@@ -1,6 +1,7 @@
 ---
 title: Chicago March For Truth
 date: 2017-05-29 09:03:00 -05:00
+published: false
 call-script-text: "Chicago March For Truth\n\nJoin the March for Truth, Saturday June
   3, 2017 where citizens will gather at Federal Plaza and march to Trump Tower to
   demand more accountability and transparency from their federal, state and local
