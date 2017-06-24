@@ -8,4 +8,4 @@ Location: Bethany Union Church, 103rd and Wood St, Chicago, IL
 RSVP-link: https://www.facebook.com/events/1977750405780227/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null
 ---
 
-Tuesday, June 27th, 2017 at Bethany Union Church, 103rd and Wood, Chicago from 5-8PM  https://www.facebook.com/events/1977750405780227/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22null%22%7D&source=4&action_history=null
+Tuesday, June 27th, 2017 at Bethany Union Church, 103rd and Wood, Chicago from 5-8PM  
