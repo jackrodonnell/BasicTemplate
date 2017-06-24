@@ -1,6 +1,7 @@
 ---
 title: 'Presentation/Discussion: Chicago is Not Broke'
 date: 2017-06-01 07:44:00 -05:00
+published: false
 is featured: false
 call-script-text: 'We are told by the mayor and a host of experts that Chicago is
   broke. They sold our parking meters. They closed 49 public schools, They closed
