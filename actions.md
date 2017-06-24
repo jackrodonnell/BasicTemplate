@@ -1,10 +1,20 @@
 ---
 title: Take Action
-published: false
 position: 0
 main-image: "/uploads/march.JPG"
 layout: actions
 ---
+
+<h4>Medical Emergency: Rally to Save the ACA</h4>
+<h5>Wed, June 28 Noon at the Thompson Center</h5>
+RED ALERT - WE NEED ALL AMERICANS WHO BELIEVE IN PROTECTING THE ELDERLY, THE DISABLED, CHILDREN AND THE POOR TO SHOW UP AND DEMAND RAUNER TO DEFEND OUR STATE.
+
+Governor Rauner has been silent on AHCA, and this silence speaks volumes. He can not be allowed to get away with sitting on the sidelines while his Republican allies in Congress vote to give him a 6.6. million dollar tax cut at the expense of children and the elderly.
+
+We will deliver a 5000 signature petition to Governor Rauner during the rally. Sign the petition and share https://actionsprout.io/1D7168
+
+Come out. Rally! Have your voices be heard! We will demand that Governor Rauner speak out. We will demand that he represent the people of Illinois who will die without ACA. Join Indivisible Chicago and our allies as we rally outside the Governor's office and demand that our voices be heard.
+
 
 <h4>Presentation/Discussion: Chicago is Not Broke</h4>
 
