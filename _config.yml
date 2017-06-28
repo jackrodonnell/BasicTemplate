@@ -2,15 +2,15 @@
 title: Indivisible 123GO
 timezone: America/Chicago
 collections:
+  successes:
+    title: Activism
+    output: true
   posts:
     title: Posts
     output: true
   representatives:
     title: Representatives
     output: false
-  successes:
-    title: Successes
-    output: true
   uploads:
     title: Uploads
     output: true
